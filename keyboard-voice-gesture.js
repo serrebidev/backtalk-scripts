@@ -15,7 +15,7 @@ export const manifest = {
   name: 'Keyboard voice typing gesture',
   version: '1.0.1',
   author: 'Surendra',
-  description: 'While the keyboard is open, a two-finger double tap presses the keyboard voice typing key, to start and to stop voice typing. Otherwise the gesture does what it normally does, such as play or pause media, or answer or end a call. Ported from SandFly.',
+  description: 'While the keyboard is open, a two-finger double tap presses the keyboard voice typing key, to start and to stop voice typing. Otherwise the gesture does what it normally does, such as play or pause media, or answer or end a call. Ported from SandFly',
   homepage: 'https://github.com/serrebidev/backtalk-scripts',
   minBuild: 395,
   permissions: ['screen', 'actions', 'speech', 'input'],

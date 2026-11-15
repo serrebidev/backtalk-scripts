@@ -10,7 +10,7 @@ export const manifest = {
   name: 'Google Messages conversation actions',
   version: '1.0.1',
   author: 'Surendra',
-  description: 'Adds Pin, Mark as unread, Archive, Delete, Snooze, Block and Add contact to the Actions menu of each conversation in the Google Messages list. Ported from SandFly.',
+  description: 'Adds Pin, Mark as unread, Archive, Delete, Snooze, Block and Add contact to the Actions menu of each conversation in the Google Messages list. Ported from SandFly',
   homepage: 'https://github.com/serrebidev/backtalk-scripts',
   minBuild: 395,
   apps: ['com.google.android.apps.messaging'],

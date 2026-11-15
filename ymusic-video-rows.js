@@ -15,7 +15,7 @@ export const manifest = {
   name: 'YMusic: title and time',
   version: '1.7.1',
   author: 'Алёшка',
-  description: 'Videos, clips and live streams in YMusic lists read only their title and time. Channel, views and publish date move to the Actions menu, for videos, clips, streams, mixes and playlists. The More button is hidden in every list row and opens from the Actions menu. On entering the app and each time Subscriptions opens, focus goes to the New section. Ported from SandFly and translated to English.',
+  description: 'Videos, clips and live streams in YMusic lists read only their title and time. Channel, views and publish date move to the Actions menu, for videos, clips, streams, mixes and playlists. The More button is hidden in every list row and opens from the Actions menu. On entering the app and each time Subscriptions opens, focus goes to the New section. Ported from SandFly and translated to English',
   homepage: 'https://github.com/serrebidev/backtalk-scripts',
   minBuild: 395,
   apps: ['io.ymusic.android'],

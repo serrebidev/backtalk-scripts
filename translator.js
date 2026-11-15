@@ -19,7 +19,7 @@ export const manifest = {
   name: 'Translator',
   version: '2.2.1',
   author: 'Slonobass',
-  description: 'Translates the text in focus into any language. From the Backtalk menu: favorite languages, or all languages with search, then the translation in a window or straight into the edit field. Text is sent to Google Translate. Ported from SandFly and translated to English.',
+  description: 'Translates the text in focus into any language. From the Backtalk menu: favorite languages, or all languages with search, then the translation in a window or straight into the edit field. Text is sent to Google Translate. Ported from SandFly and translated to English',
   homepage: 'https://github.com/serrebidev/backtalk-scripts',
   minBuild: 395,
   permissions: ['input', 'screen', 'actions', 'speech', 'dialogs', 'network', 'clipboard'],

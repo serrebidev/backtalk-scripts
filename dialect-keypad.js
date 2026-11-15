@@ -10,7 +10,7 @@ export const manifest = {
   name: 'Dialect keypad',
   version: '2.0.1',
   author: 'Aaron Hewitt',
-  description: 'Lifting the finger from a key on the Dialect keypad activates it: the digits, Backspace and Enter. Holding a digit or Backspace for the long-press hold time long-presses it. Ported from SandFly.',
+  description: 'Lifting the finger from a key on the Dialect keypad activates it: the digits, Backspace and Enter. Holding a digit or Backspace for the long-press hold time long-presses it. Ported from SandFly',
   homepage: 'https://github.com/serrebidev/backtalk-scripts',
   minBuild: 395,
   apps: ['com.dialect.launcher'],

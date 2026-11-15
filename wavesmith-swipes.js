@@ -11,7 +11,7 @@ export const manifest = {
   name: 'WaveSmith Swipes',
   version: '1.0.1',
   author: 'Justin Harris',
-  description: 'In WaveSmith, while audio plays and the waveform has focus, swipes rewind, fast-forward and zoom. Ported from SandFly.',
+  description: 'In WaveSmith, while audio plays and the waveform has focus, swipes rewind, fast-forward and zoom. Ported from SandFly',
   homepage: 'https://github.com/serrebidev/backtalk-scripts',
   minBuild: 395,
   apps: ['app.wavesmith'],

@@ -17,7 +17,7 @@ export const manifest = {
   name: 'Phone Actions and Switch',
   version: '1.1.1',
   author: 'Justin Harris',
-  description: 'iOS-style actions for the Google Phone call log and the Contacts list: swipe right or left moves entry to entry, swipe down or up cycles actions, double-tap calls or runs the selected action. A three-finger swipe left or right switches between Recents and Contacts. Ported from SandFly.',
+  description: 'iOS-style actions for the Google Phone call log and the Contacts list: swipe right or left moves entry to entry, swipe down or up cycles actions, double-tap calls or runs the selected action. A three-finger swipe left or right switches between Recents and Contacts. Ported from SandFly',
   homepage: 'https://github.com/serrebidev/backtalk-scripts',
   minBuild: 395,
   apps: ['com.google.android.dialer', 'com.google.android.contacts'],

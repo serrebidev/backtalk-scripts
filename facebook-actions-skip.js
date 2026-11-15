@@ -20,7 +20,7 @@ export const manifest = {
   name: 'Facebook Actions and Skip',
   version: '1.6.1',
   author: 'Justin Harris',
-  description: 'Swipe up or down on a post to cycle its actions, double-tap to run the selected one. Backtalk+J or a two-finger swipe right skips feed sections (stories, reels, People You May Know) to the next post. Ported from SandFly.',
+  description: 'Swipe up or down on a post to cycle its actions, double-tap to run the selected one. Backtalk+J or a two-finger swipe right skips feed sections (stories, reels, People You May Know) to the next post. Ported from SandFly',
   homepage: 'https://github.com/serrebidev/backtalk-scripts',
   minBuild: 395,
   apps: ['com.facebook.katana'],
