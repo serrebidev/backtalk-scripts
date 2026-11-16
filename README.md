@@ -2,6 +2,12 @@
 
 JavaScript ports of SandFly screen reader scripts, for the [Backtalk](https://github.com/trypsynth/backtalk) screen reader for Android. SandFly is a fork of Backtalk, but its scripts are written in Lua against a different script API, so they can't be installed in Backtalk as they are. Each script here does everything the SandFly original does. Scripts that need something Backtalk's script API can't do yet are not here; see [Not ported yet](#not-ported-yet).
 
+[![Join SerrebiProjects on Telegram](https://img.shields.io/badge/Telegram-SerrebiProjects-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SerrebiProjects)
+
+**Questions, bugs, or release news?** Join the [SerrebiProjects Telegram group](https://t.me/SerrebiProjects), the fastest place to get help.
+
+More serrebi projects: [projects.serrebiradio.com](https://projects.serrebiradio.com)
+
 All text is in English, including the scripts that were written in Russian.
 
 ## Install
@@ -61,3 +67,5 @@ These need things Backtalk's script API doesn't have yet: touching the screen, r
 ## Credits
 
 The scripts are by their original authors, named in each file and in the tables above. The ports to Backtalk's JavaScript API are by serrebi. Aaron Hewitt's scripts, and so their ports, are under the Apache License 2.0, in [LICENSE](LICENSE). The other original repositories have no license; they were shared publicly by their authors to help others, and any author who wants their port taken down can open an issue.
+
+Full credit list: [CREDITS.md](CREDITS.md).
