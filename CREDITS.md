@@ -4,9 +4,10 @@ These scripts are JavaScript ports of SandFly screen reader scripts. SandFly is 
 
 Original scripts and their authors:
 
-- SandFly and its script authors (see each script file and the tables in the README for the name behind every port).
-- Aaron Hewitt's scripts (from aaron-gh/sandfly-scripts) and their ports are under the Apache License 2.0.
-- Other original repositories have no license; they were shared publicly by their authors to help others, and any author who wants their port taken down can open an issue.
+- Justin Harris (jharris171185/sandfly-scripts): Facebook Actions and Skip, Phone Actions and Switch, and WaveSmith Swipes.
+- Aaron Hewitt (aaron-gh/sandfly-scripts): Dialect keypad, Google Messages conversation actions, Keyboard voice typing gesture, and WhatsApp messages. Aaron Hewitt's scripts, and so their ports, are under the Apache License 2.0. Two of them are by Surendra, named in the README tables.
+- WAM Agents (magiyastraha-tech/sandfly-scripts): YMusic title and time, and Translator. The Translator sends text to Google Translate.
+- The other original repositories have no license; they were shared publicly by their authors to help others, and any author who wants their port taken down can open an issue.
 
 Backtalk is trypsynth's screen reader for Android.
 
