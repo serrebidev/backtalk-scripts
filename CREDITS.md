@@ -12,3 +12,12 @@ Original scripts and their authors:
 Backtalk is trypsynth's screen reader for Android.
 
 Questions and bug reports are welcome in the [SerrebiProjects Telegram group](https://t.me/SerrebiProjects). More serrebi projects: [projects.serrebiradio.com](https://projects.serrebiradio.com).
+
+
+## About this project
+
+- GitHub profile: [serrebidev](https://github.com/serrebidev)
+- Repository (GitHub): [https://github.com/serrebidev/backtalk-scripts](https://github.com/serrebidev/backtalk-scripts)
+- Repository (Forgejo): [https://git.serrebiradio.com/serrebi/backtalk-scripts](https://git.serrebiradio.com/serrebi/backtalk-scripts)
+- Projects site: [projects.serrebiradio.com](https://projects.serrebiradio.com)
+- Questions and bug reports: [SerrebiProjects Telegram group](https://t.me/SerrebiProjects)
